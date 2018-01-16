@@ -1,0 +1,436 @@
+{
+	"resources": {
+		"common": {
+			"alloyPlate": {
+				"planets": [
+					"Venus",
+					"Jupiter",
+					"Ceres",
+					"Sedna",
+					"Pluto",
+					"Phobos"
+				],
+				"Recommanded": {
+					"Ceres": [
+						"Gabii",
+						"Draco"
+					],
+					"Venus": "Malva"
+				}
+			},
+			"ferrite": {
+				"planets": [
+					"Mercury",
+					"Earth",
+					"Neptune",
+					"OrokinVoid"
+				],
+				"Recommanded": {
+					"Earth": "Tikal",
+					"Mercury": "Apollodorus"
+				}
+			},
+			"nanoSpores": {
+				"planets": [
+					"Saturn",
+					"Neptune",
+					"Eris",
+					"Orokin Derelict"
+				],
+				"Recommanded": {
+					"Eris": "Akkad",
+					"Mercury": "Piscinas"
+				}
+			},
+			"salvage": {
+				"planets": [
+					"Mars",
+					"Jupiter",
+					"Sedna"
+				],
+				"Recommanded": {
+					"Jupiter": "Cameria",
+					"Mars": "Wahiba"
+				}
+			}
+		},
+		"uncommon": {
+			"circuits": {
+				"planets": [
+					"Venus",
+					"Ceres"
+				],
+				"Recommanded": {
+					"Ceres": "Draco",
+					"Venus": "Malva"
+				}
+			},
+			"cryotic": {
+				"mission": "Excavation"
+			},
+			"oxium": {
+				"enemy": {
+					"faction": "Corpus",
+					"type": "Oxium Osprey"
+				},
+				"Recommanded": {
+					"Europa": "Baal",
+					"Neptune": "Despina"
+				}
+			},
+			"plastids": {
+				"planets": [
+					"Saturn",
+					"Uranus",
+					"Pluto",
+					"Eris",
+					"Phobos"
+				],
+				"Recommanded": {
+					"Phobos": "Zeugma",
+					"Uranus": "Ophelia",
+					"Eris": "Zabala"
+				}
+			},
+			"polymerBundle": {
+				"planets": [
+					"Mercury",
+					"Venus",
+					"Uranus"
+				],
+				"Recommanded": {
+					"Uranus": [
+						"Assur",
+						"Ophella"
+					],
+					"Mercury": "Apollodorus"
+				}
+			},
+			"rubedo": {
+				"planets": [
+					"Earth",
+					"Pluto",
+					"Sedna",
+					"Europa",
+					"Phobos",
+					"Orokin Void"
+				],
+				"Recommanded": {
+					"Phobos": "Zeugma"
+				}
+			}
+
+		},
+		"rare": {
+			"argonCrystal": {
+				"planets": "Void"
+			},
+			"controlModule": {
+				"Boss": [
+					"Raptors",
+					"Hyena Pack"
+				],
+				"planets": [
+					"Neptune",
+					"Europa",
+					"Void"
+				]
+			},
+			"gallium": {
+				"Boss": ["Lieutenant Lech Kril"],
+				"planets": [
+					"Mars",
+					"Uranus"
+				],
+				"Recommanded": {
+					"Uranus": "Assur"
+				}
+			},
+			"morphics": {
+				"Boss": "Captain Vor",
+				"planets": [
+					"Mercury",
+					"Mars",
+					"Pluto",
+					"Europa",
+					"Phobos"
+				],
+				"Recommanded": {
+					"Mercury": "Apollodorus",
+					"Mars": "Wahiba"
+				}
+			},
+			"neuralSensors": {
+				"planets": [
+					"Jupiter",
+					"Kuva Fortress"
+				],
+				"Boss": ["Raptors", "Alad V"],
+				"Recommanded": {
+					"Jupiter": "Cameria"
+				}
+			},
+			"neurodes": {
+				"planets": [
+					"Earth",
+					"Eris",
+					"Derelicts",
+					"Lua"
+				],
+				"Recommanded": {
+					"Earth": "Tikal",
+					"Eris": "Zabala",
+					"Mission": {
+						"Orokin": [
+							"Assassination",
+							"Defence",
+							"Survival"
+						]
+					}
+			}
+			},
+			"orokinCell": {
+				"planets": [
+					"Saturn",
+					"Ceres",
+					"Derelict"
+				],
+				"Bosses": ["All"],
+				"Recommanded": {
+					"Saturn": "Piscinas",
+					"Ceres": "Draco"
+				},
+				"Mission": {
+						"Orokin": "Survival"
+					}
+			},	
+			"tellurium": {
+				"Recommanded": {
+					"Uranus": [
+						"Tikal",
+						"Cealus"
+					],
+					"Neptune": "Salacia"
+				},
+				"Mission":{
+					"Type":"Archwing"
+				},
+				"TitleSet":{
+					"Faction":"Grineer",
+					"Type":"Sealab"
+				}	 
+			}
+		}
+	},
+	"research": {
+	"antiserumInjectorFragment": {
+		"planets": {
+			"eris": "Oestrus"
+		},
+		"missions": "The Jordas Verdict"
+	},
+	"detoniteAmpule": {
+		"planets": [
+			"Mercury",
+			"Saturn",
+			"Uranus",
+			"Earth",
+			"Sedna",
+			"Ceres"
+		]
+	},
+	"detoniteInjector": {
+		"obtain": [
+			"Crafting"
+		]
+	},
+	"fieldronSample": {
+		"planets": [
+			"Mercury",
+			"Saturn",
+			"Uranus",
+			"Earth",
+			"Sedna",
+			"Ceres"
+		]
+	},
+	"fieldron": {
+		"obtain": [
+			"Crafting"
+		]
+	},
+	"mutagenSample": {
+		"planets": [
+			"Eris",
+			"Derelict"
+		]
+	},
+	"mutagenMass": {
+		"obtain": [
+			"Crafting"
+		]
+	}
+},
+	"navigation": {
+	"animoNavBeacon": {
+		"tileSet": {
+			"faction": "Corpus",
+			"tag": "Open Air"
+		}
+	},
+	"cryptographicALU": {
+		"mission": {
+			"faction": "Corpus",
+			"tag": "Archwing"
+		}
+	},
+	"judgementPoints": {
+		"mission": ["Rathumm"]
+	},
+	"lephantisNavCoordinates": {
+		"planets": [
+			"Derelict"
+		]
+	},
+	"mutalistNavCoordinates": {
+		"event": [
+			"infested invasions"
+		]
+	},
+	"omegaIsotopes": {
+		"mission": {
+			"tag": "Balor Fomorian"
+		}
+	}
+},
+	"special": {
+	"endo": {
+		"all": true
+	},
+	"kuva": {
+		"planets": "Kuva Fortress",
+		"mission": {
+			"Tags": "Kuva"
+		}
+	},
+	"nitainExtract": {
+		"events": "Alerts"
+	},
+	"synthula": {
+		"planets": [
+			"Mercury",
+			"Venus",
+			"Earth",
+			"Mars",
+			"Phobos",
+			"Ceres",
+			"Void"
+		]
+	},
+	"voidTraces": {
+		"mission": "Fissure"
+	}
+},
+	"pigment": {
+	"antiViolet": {
+		"enemy": "Zanuka Hunter Harvester",
+		"dropRate": 0
+	},
+	"autumnBrown": {
+		"enemy": "Corrupted Moa",
+		"dropRate": 0
+	},
+	"boilerRed": {
+		"enemy": "Phorid",
+		"dropRate": 0
+	},
+	"chargerBlue": {
+		"enemy": "Toxic Ancient",
+		"dropRate": 0
+	},
+	"crawlerBlue": {
+		"enemy": "Crawler",
+		"dropRate": 0
+	},
+	"dustBrown": {
+		"enemy": "CorruptedLancer",
+		"dropRate": 0
+	},
+	"elysiumBlue": {
+		"enemy": "The Sergeant",
+		"dropRate": 0
+	},
+	"glacialBlue": {
+		"enemy": "Crewman",
+		"dropRate": 0
+	},
+	"hesperiaBrown": {
+		"enemy": "Trooper",
+		"dropRate": 0
+	},
+	"jackalYellow": {
+		"enemy": "Sinper Crewman",
+		"dropRate": 0
+	},
+	"leafRed": {
+		"enemy": "Stalker",
+		"dropRate": 0
+	},
+	"leechGreen": {
+		"enemy": "Corrupted Crewman",
+		"dropRate": 0
+	},
+	"moaGreen": {
+		"enemy": "Orokin Drone",
+		"dropRate": 0
+	},
+	"morningYellow": {
+		"enemy": "Leech Osprey",
+		"dropRate": 0
+	},
+	"mutalistRed": {
+		"enemy": "Tar-Mutalist Moa",
+		"dropRate": 0
+	},
+	"naniteBlue": {
+		"enemy": "Charger",
+		"dropRate": 0
+	},
+	"nightBlue": {
+		"enemy": "Councilor Vay Hek Terra Frame",
+		"dropRate": 0
+	},
+	"oakBrown": {
+		"enemy": "Butcher",
+		"dropRate": 0
+	},
+	"olympusBlue": {
+		"enemy": "Lancer",
+		"dropRate": 0
+	},
+	"railgunBlue": {
+		"enemy": "Railgun Moa",
+		"dropRate": 0
+	},
+	"riverBlue": {
+		"enemy": "seeker",
+		"dropRate": 0
+	},
+	"sandYellow": {
+		"enemy": "Scorpion",
+		"dropRate": 0
+	},
+	"syrtisOrange": {
+		"enemy": "Arid Eviscerator",
+		"dropRate": 0
+	},
+	"tharsisBrown": {
+		"enemy": "Ballista",
+		"dropRate": 0
+	},
+	"treeGreen": {
+		"enemy": "AridLancer",
+		"dropRate": 0
+	}
+}
+}

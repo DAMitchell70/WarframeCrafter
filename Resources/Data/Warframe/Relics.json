@@ -1,0 +1,116 @@
+{
+	"lith": {
+		"A1" :{
+			"Vaulted": false,
+			"Level": {
+				"Intact": {
+					"item1": {
+						"item": "Saryn Prime Neuroptics Blueprint",
+						"dropRate": 11
+					},
+					"item2": {
+						"item": "Vectis Prime Blueprint",
+						"dropRate": 11
+					},
+					"item3": {
+						"item": "Braton Prime Barrel",
+						"dropRate": 25.33
+					},
+					"item4": {
+						"item": "Akstiletto Prime Blueprint",
+						"dropRate": 2
+					},
+					"item5": {
+						"item": "Forma Blueprint",
+						"dropRate": 25.33
+					},
+					"item6": {
+						"item": "Vasto Prime Receiver",
+						"dropRate": 25.33
+					}
+				},
+				"Exceptional": {
+					"item1": {
+						"item": "Saryn Prime Neuroptics Blueprint",
+						"dropRate": 13
+					},
+					"item2": {
+						"item": "Vectis Prime Blueprint",
+						"dropRate": 13
+					},
+					"item3": {
+						"item": "Braton Prime Barrel",
+						"dropRate": 23.33
+					},
+					"item4": {
+						"item": "Akstiletto Prime Blueprint",
+						"dropRate": 4
+					},
+					"item5": {
+						"item": "Forma Blueprint",
+						"dropRate": 23.33
+					},
+					"item6": {
+						"item": "Vasto Prime Receiver",
+						"dropRate": 23.33
+					}
+				},
+				"Flawless": {
+					"item1": {
+						"item": "Saryn Prime Neuroptics Blueprint",
+						"dropRate": 17
+					},
+					"item2": {
+						"item": "Vectis Prime Blueprint",
+						"dropRate": 17
+					},
+					"item3": {
+						"item": "Braton Prime Barrel",
+						"dropRate": 20
+					},
+					"item4": {
+						"item": "Akstiletto Prime Blueprint",
+						"dropRate": 6
+					},
+					"item5": {
+						"item": "Forma Blueprint",
+						"dropRate": 20
+					},
+					"item6": {
+						"item": "Vasto Prime Receiver",
+						"dropRate": 20
+					}
+				},
+				"Radiant": {
+					"item1": {
+						"item": "Saryn Prime Neuroptics Blueprint",
+						"dropRate": 20
+					},
+					"item2": {
+						"item": "Vectis Prime Blueprint",
+						"dropRate": 20
+					},
+					"item3": {
+						"item": "Braton Prime Barrel",
+						"dropRate": 16.67
+					},
+					"item4": {
+						"item": "Akstiletto Prime Blueprint",
+						"dropRate": 10
+					},
+					"item5": {
+						"item": "Forma Blueprint",
+						"dropRate": 16.67
+					},
+					"item6": {
+						"item": "Vasto Prime Receiver",
+						"dropRate": 16.67
+					}
+				},
+			}
+		}
+	},
+	"meso": {},
+	"neo": {},
+	"axi": {}
+}
